@@ -4,8 +4,8 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
-  base: '/jellyfish/',
   return {
+    base: '/jellyfish/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
