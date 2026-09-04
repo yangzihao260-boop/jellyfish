@@ -1,0 +1,6 @@
+{
+  "name": "Jellyfish Undersea English Game",
+  "description": "An interactive classroom English learning game for elementary students featuring 20 unique jellyfish in an undersea world with pronunciation, sound effects, cheerful music, and speed modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
